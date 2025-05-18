@@ -1,11 +1,26 @@
 # Tableau Jobs
 
-This data is updated weekly, with filled postings removed. Last updated: 05/11/2025
+This data is updated weekly, with filled postings removed. Last updated: 05/18/2025
 
 All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent postings, see: [Tableau Jobs](https://algojobs.io/jobs/tableau)
 
 | Posted | Title | Company | Salary | Location |
 | --- | --- | --- | --- | --- |
+| 05/16/2025 | [Sr Software Engineer (Workday and Adaptive Reporting consultant)](https://algojobs.io/jobs/4108889) | [Veradigm Asia](https://algojobs.io/company/as/) | N/A | India |
+| 05/16/2025 | [Software Engineering SMTS](https://algojobs.io/jobs/4119510) | [Salesforce](https://algojobs.io/company/salesforce/) | $157K - $216K | Washington - Seattle / Washington - Bellevue |
+| 05/15/2025 | [Software Engineer - Data Analytics](https://algojobs.io/jobs/4098168) | [Capco](https://algojobs.io/company/capco/) | N/A | India - Bengaluru |
+| 05/15/2025 | [Software Engineering SMTS](https://algojobs.io/jobs/4119528) | [Salesforce](https://algojobs.io/company/salesforce/) | $157K - $216K | Washington - Seattle / Washington - Bellevue |
+| 05/15/2025 | [Senior Software Engineer](https://algojobs.io/jobs/4100284) | [Vizient](https://algojobs.io/company/vizient/) | $149K - $179K | Irving, TX 75062 Vizient Corporate HQ, United States of America |
+| 05/15/2025 | [Software & Data Systems Co-Op](https://algojobs.io/jobs/4102603) | [CAN Canada](https://algojobs.io/company/hcmportal/) | N/A | US - UPS CORPORATE OFFICES (GACOR), United States of America |
+| 05/14/2025 | [BI Developer](https://algojobs.io/jobs/4081786) | [J.D. Power](https://algojobs.io/company/jdpower/) | N/A | Remote Canada |
+| 05/14/2025 | [Staff Software Engineer](https://algojobs.io/jobs/4087317) | [444](https://algojobs.io/company/trimble/) | N/A | India - Pune |
+| 05/14/2025 | [Experienced Associate - ETL Developer (Guidewire) (PwC Acceleration Center Kuala Lumpur)](https://algojobs.io/jobs/4074385) | [PricewaterhouseCoopers Service Delivery Center (Kolkata) Private Limited](https://algojobs.io/company/pwc/) | N/A | Kuala Lumpur, Malaysia |
+| 05/14/2025 | [Senior Associate - ETL Developer (Guidewire) (PwC Acceleration Center Kuala Lumpur)](https://algojobs.io/jobs/4074387) | [PricewaterhouseCoopers Service Delivery Center (Kolkata) Private Limited](https://algojobs.io/company/pwc/) | N/A | Kuala Lumpur, Malaysia |
+| 05/14/2025 | [Full-Stack Developer- Tokyo, Japan](https://algojobs.io/jobs/4074181) | [Boeing](https://algojobs.io/company/boeing/) | N/A | JPN - Tokyo, Japan |
+| 05/13/2025 | [Software Engineer - Cloud Efficiency & Analytics (Lisbon)](https://algojobs.io/jobs/4068745) | [Datadog](https://algojobs.io/company/datadog/) | N/A |  Lisbon, Portugal |
+| 05/13/2025 | [Principal Software Engineer](https://algojobs.io/jobs/4073328) | [Fidelity](https://algojobs.io/company/fmr/) | N/A | London, Great Britain, United Kingdom |
+| 05/12/2025 | [Senior Software Engineer - Big Data](https://algojobs.io/jobs/4056816) | [306 - GoTo Technologies India Private Limited](https://algojobs.io/company/goto/) | N/A | Bangalore, KA, IN, India |
+| 05/12/2025 | [Full stack developer](https://algojobs.io/jobs/4058680) | [585 P&G Ecuador Cia. Ltda.](https://algojobs.io/company/pg/) | N/A | WARSAW PLANT & GO, Poland |
 | 05/09/2025 | [Software Engineer - DB Projects](https://algojobs.io/jobs/4045321) | [Fidelity](https://algojobs.io/company/fmr/) | N/A | Bangalore, Karnataka, India |
 | 05/09/2025 | [Software Engineering Senior Advisors- Hybrid](https://algojobs.io/jobs/4045435) | [390 Cigna-Evernorth Services Inc.](https://algojobs.io/company/cigna/) | N/A | Bloomfield, CT, United States of America (Hybrid) |
 | 05/09/2025 | [Software Engineering Senior Advisors- Hybrid](https://algojobs.io/jobs/4045436) | [390 Cigna-Evernorth Services Inc.](https://algojobs.io/company/cigna/) | N/A | Morris Plains, NJ, United States of America (Hybrid) |
@@ -31,25 +46,17 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 05/05/2025 | [Sr. Software Engineer, Data Governance](https://algojobs.io/jobs/3992123) | [Navitus Health Solutions, LLC](https://algojobs.io/company/navitus/) | $105K - $131K | US |
 | 05/05/2025 | [Business Intelligence Developer (SAP Business Objects)](https://algojobs.io/jobs/3993241) | [Burns & Wilcox](https://algojobs.io/company/hwkaufman/) | N/A | US |
 | 05/05/2025 | [Axiom Developer, AVP](https://algojobs.io/jobs/3988107) | [State Street](https://algojobs.io/company/statestreet/) | $110K - $170K | BOSTON / Princeton, New Jersey |
-| 05/02/2025 | [Senior Software Engineer](https://algojobs.io/jobs/3971178) | [NICE](https://algojobs.io/company/nice/) | N/A | India - Pune |
 | 05/02/2025 | [Software Engineering MTS](https://algojobs.io/jobs/3972797) | [Salesforce](https://algojobs.io/company/salesforce/) | $137K - $172K | Washington - Remote / Washington - Seattle |
 | 05/02/2025 | [Software Engineering SMTS](https://algojobs.io/jobs/3972799) | [Salesforce](https://algojobs.io/company/salesforce/) | N/A | Texas - Remote / Texas - Dallas |
 | 05/02/2025 | [Senior Fullstack Engineer - Command](https://algojobs.io/jobs/3983489) | [Narmi](https://algojobs.io/company/narmi/) | $165K - $200K | New York, NY (Hybrid) |
-| 05/01/2025 | [Software Engineer II, Cloud Operations](https://algojobs.io/jobs/3957270) | [Box](https://algojobs.io/company/boxinc/) | $125K - $157K | Redwood City, CA, United States |
 | 05/01/2025 | [Software Engineering LMTS](https://algojobs.io/jobs/3960975) | [Salesforce](https://algojobs.io/company/salesforce/) | $184K - $253K | Washington - Seattle / Washington - Bellevue |
-| 05/01/2025 | [Software Engineering SMTS](https://algojobs.io/jobs/3960991) | [Salesforce](https://algojobs.io/company/salesforce/) | $190K - $253K | Washington - Remote / Washington - Bellevue |
-| 05/01/2025 | [Senior Software Engineer](https://algojobs.io/jobs/3961749) | [Wal-Mart Stores East, LP](https://algojobs.io/company/walmart/) | $174K - $234K | Sunnyvale, CA, United States of America |
-| 05/01/2025 | [Senior Software Engineer](https://algojobs.io/jobs/3963569) | [Walmart](https://algojobs.io/company/walmart/) | $174K - $234K | Sunnyvale, CA, United States of America |
-| 05/01/2025 | [Sr. Application Developer/Analyst (Information Systems Specialist 7) 100 % Remote work](https://algojobs.io/jobs/3962832) | [Oregon Health Authority](https://algojobs.io/company/oregon/) | $6K - $10K | Salem \| OHA \| Fairview Industrial Drive 3990, United States of America (Remote) |
 | 04/30/2025 | [Software Engineering Advisor - HIH - Evernorth](https://algojobs.io/jobs/3949904) | [180 Accredo Health Group Inc](https://algojobs.io/company/cigna/) | N/A | Hyderabad, India |
 | 04/30/2025 | [Software Engineering Analyst - HIH - Evernorth](https://algojobs.io/jobs/3949909) | [180 Accredo Health Group Inc](https://algojobs.io/company/cigna/) | N/A | Hyderabad, India |
 | 04/30/2025 | [IT Automation Developer (RPA)](https://algojobs.io/jobs/3948848) | [Kimberly-Clark](https://algojobs.io/company/kimberlyclark/) | N/A | IT Centre Bengaluru GDTC, India |
-| 04/30/2025 | [Spotfire Data Visualization Developer](https://algojobs.io/jobs/3947082) | [IQVIA](https://algojobs.io/company/iqvia/) | $106K - $177K | Durham, North Carolina, United States of America |
 | 04/29/2025 | [Senior Software Engineer, Data Engineering](https://algojobs.io/jobs/3930534) | [DoorDash India](https://algojobs.io/company/doordashindia/) | N/A | Pune, India |
 | 04/29/2025 | [Senior Software Engineer](https://algojobs.io/jobs/3930317) | [Convera](https://algojobs.io/company/convera/) | N/A | Pune |
 | 04/29/2025 | [ETL Developer (Work from Home)](https://algojobs.io/jobs/3937655) | [Quantrics Enterprises Inc.](https://algojobs.io/company/quantrics/) | N/A | PH |
 | 04/29/2025 | [Software Development Engineer III](https://algojobs.io/jobs/3936450) | [Amgen](https://algojobs.io/company/amgen/) | N/A | India - Hyderabad |
-| 04/29/2025 | [Software Developer / Business Intelligence (Alteryx)](https://algojobs.io/jobs/3929769) | [Nielsen](https://algojobs.io/company/nielsen/) | N/A | Mexico City, Mexico (Hybrid) |
 | 04/28/2025 | [Software Engineering Associate Advisor - HIH - Evernorth](https://algojobs.io/jobs/3936311) | [IN1 Cigna Health Solutions India Private Limited](https://algojobs.io/company/cigna/) | N/A | Hyderabad, India |
 | 04/28/2025 | [Software Engineering Advisor - HIH - Evernorth](https://algojobs.io/jobs/3922366) | [KE1 Cigna International Health Services Kenya](https://algojobs.io/company/cigna/) | N/A | Hyderabad, India |
 | 04/28/2025 | [Senior Backend Engineer (Analytics)](https://algojobs.io/jobs/3915719) | [Drivemode](https://algojobs.io/company/drivemode/) | N/A | Tokyo Office (Hybrid) |
@@ -58,8 +65,6 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 04/24/2025 | [Senior Software Development Engineer - Big Data](https://algojobs.io/jobs/3893080) | [Zillow](https://algojobs.io/company/zillow/) | $158K - $252K | Remote-USA, United States of America |
 | 04/24/2025 | [Job Posting Title Sr. Software Engineer - Data & Analytics - Paze](https://algojobs.io/jobs/3893319) | [Early Warning Services, LLC](https://algojobs.io/company/earlywarning/) | $120K - $140K | San Francisco / Chicago / New York City / ... |
 | 04/23/2025 | [Sr. Backend Engineer with Data Science](https://algojobs.io/jobs/3878332) | [Fingerprint](https://algojobs.io/company/fingerprint/) | N/A | Remote |
-| 04/22/2025 | [Software Engineer I - Java Developer](https://algojobs.io/jobs/3868095) | [Blue Yonder](https://algojobs.io/company/jda/) | N/A | Pune, India |
-| 04/22/2025 | [Software Engineering SMTS](https://algojobs.io/jobs/3866183) | [Salesforce](https://algojobs.io/company/salesforce/) | $157K - $216K | Washington - Seattle / California - Palo Alto / Washington - Bellevue / ... |
 | 04/22/2025 | [Software Engineering Senior Managers-Hybrid](https://algojobs.io/jobs/3868758) | [CIME Cigna Insurance Middle East](https://algojobs.io/company/cigna/) | N/A | St. Louis, MO, United States of America (Hybrid) |
 | 04/21/2025 | [Database Application Developer](https://algojobs.io/jobs/3852953) | [Academy District 20](https://algojobs.io/company/asd/) | $100K - $110K | Academy District 20 EAC (Education and Administration Center), Colorado Springs, CO, United States of America |
 | 04/18/2025 | [Applications Developer - Pigment](https://algojobs.io/jobs/3840364) | [Talkdesk 2](https://algojobs.io/company/talkdesk2/) | N/A | Porto |
@@ -84,17 +89,14 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 04/08/2025 | [Software Engineering SMTS](https://algojobs.io/jobs/3722817) | [Salesforce](https://algojobs.io/company/salesforce/) | $125K - $253K | Washington - Seattle / California - San Francisco |
 | 04/08/2025 | [IN_Senior Associate _Java Developer _Data & Analytics _Advisory _Bangalore](https://algojobs.io/jobs/3728101) | [PricewaterhouseCoopers Service Delivery Center (Kolkata) Private Limited](https://algojobs.io/company/pwc/) | N/A | Bengaluru Millenia, India |
 | 04/07/2025 | [Business Intelligence Developer - Tableau](https://algojobs.io/jobs/3736339) | [Burns & Wilcox](https://algojobs.io/company/hwkaufman/) | N/A | US |
-| 04/04/2025 | [Palantir Developer](https://algojobs.io/jobs/3705573) | [Guidehouse](https://algojobs.io/company/guidehouse/) | N/A | US - AL, Huntsville, United States of America |
 | 04/03/2025 | [Software Engineer I - Research Methodologies](https://algojobs.io/jobs/3685691) | [Qualtrics](https://algojobs.io/company/qualtrics/) | N/A | Mexico City, Mexico |
 | 04/03/2025 | [Senior/Lead Full-Stack Software Engineer (Node + Angular)](https://algojobs.io/jobs/3686358) | [Exadel Inc](https://algojobs.io/company/exadelinc/) | N/A | Bulgaria, Hungary, Lithuania, Poland, Romania |
-| 04/03/2025 | [Fullstack Engineer Senior](https://algojobs.io/jobs/3685184) | [10Pearls - LATAM](https://algojobs.io/company/10pearls/) | N/A | LATAM |
 | 04/03/2025 | [Senior Software Engineer](https://algojobs.io/jobs/3684638) | [EBANX](https://algojobs.io/company/ebanx/) | N/A | São Paulo \| On-site |
 | 04/03/2025 | [Java Developer](https://algojobs.io/jobs/3706052) | [Synechron Limited_UK Company](https://algojobs.io/company/synechron/) | $95K - $105K | MDC – Montreal, Canada |
 | 04/02/2025 | [Engineer II - Software Engineering (IN)](https://algojobs.io/jobs/3676790) | [Value Apothecaries Inc](https://algojobs.io/company/myhrabc/) | N/A | Pune, India |
 | 04/01/2025 | [Software Engineer II -Connected Intelligence](https://algojobs.io/jobs/3655858) | [Qualtrics](https://algojobs.io/company/qualtrics/) | N/A | Mexico City, Mexico |
 | 04/01/2025 | [Software Engineer I - Research Methodologies](https://algojobs.io/jobs/3655859) | [Qualtrics](https://algojobs.io/company/qualtrics/) | N/A | Mexico City, Mexico |
 | 04/01/2025 | [Senior Software Engineer - Research Methodologies](https://algojobs.io/jobs/3655861) | [Qualtrics](https://algojobs.io/company/qualtrics/) | N/A | Mexico City, Mexico |
-| 04/01/2025 | [Software Engineer I - Healthcare](https://algojobs.io/jobs/3655857) | [Qualtrics](https://algojobs.io/company/qualtrics/) | N/A | Mexico City, Mexico |
 | 04/01/2025 | [Experienced Data Software Engineer](https://algojobs.io/jobs/3662098) | [Boeing](https://algojobs.io/company/boeing/) | $114K - $155K | USA - El Segundo, CA / USA - Westlake Village, CA |
 | 03/31/2025 | [Application/Software Developer](https://algojobs.io/jobs/3641458) | [MKS2 Technologies](https://algojobs.io/company/mks2technologies/) | $150K - $170K | Austin, TX |
 | 03/31/2025 | [Software Engineer IV - Data Analytics](https://algojobs.io/jobs/3638654) | [Lead Bank](https://algojobs.io/company/leadbank/) | $210K - $240K | Sunnyvale/San Francisco/New York (Hybrid) |
@@ -115,10 +117,4 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 03/25/2025 | [Senior Python Developer](https://algojobs.io/jobs/3573578) | [Clarivate](https://algojobs.io/company/clarivate/) | N/A | IND - Bangalore (DRG), India |
 | 03/24/2025 | [Senior Software Engineer I, UK](https://algojobs.io/jobs/3567006) | [Careers at Eucalyptus](https://algojobs.io/company/eucalyptus/) | N/A | UK - HQ - London |
 | 03/21/2025 | [Business Intelligence Developer - Data Solutions and Technology](https://algojobs.io/jobs/3553587) | [IPG Mediabrands](https://algojobs.io/company/mediabrands/) | $90K - $110K | New York, New York, United States |
-| 03/21/2025 | [Senior Software Development Engineer](https://algojobs.io/jobs/3556727) | [CVS Health](https://algojobs.io/company/cvshealth/) | $101K - $203K | CT - Hartford, United States of America |
 | 03/19/2025 | [Senior Software Engineer, iOS](https://algojobs.io/jobs/3526504) | [Omada Health](https://algojobs.io/company/omadahealth/) | N/A | Remote, USA |
-| 03/18/2025 | [Lead Software Engineer, Python](https://algojobs.io/jobs/3501578) | [Clarivate](https://algojobs.io/company/clarivate/) | N/A | R155-Belgrade, Serbia |
-| 03/14/2025 | [Software Engineering Advisor](https://algojobs.io/jobs/3486608) | [KE1 Cigna International Health Services Kenya](https://algojobs.io/company/cigna/) | N/A | Plano, TX, United States of America |
-| 03/14/2025 | [Business Intelligence Developer Lead](https://algojobs.io/jobs/3483378) | [Geisinger](https://algojobs.io/company/geisinger/) | N/A | Work from Home, United States of America |
-| 03/13/2025 | [Software Engineering Advisor](https://algojobs.io/jobs/3472075) | [CIME Cigna Insurance Middle East](https://algojobs.io/company/cigna/) | N/A | Orlando, FL, United States of America |
-| 03/13/2025 | [APAC ICG Technology Software Development, 2022 Full Time Analyst, India (Pune) - ISG 10 (B.Tech)-11](https://algojobs.io/jobs/3473236) | [Citi](https://algojobs.io/company/citi/) | N/A | Pune Maharashtra India |
